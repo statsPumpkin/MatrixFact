@@ -13,7 +13,7 @@ Execute the following code in R to install the package.
 install.packages("devtools")
 
 # Install the "MatrixFact" library
-devtools::install_github('cralo31/MatrixFact')
+devtools::install_github('statsPumpkin/MatrixFact')
 ```
 
 # Example 
